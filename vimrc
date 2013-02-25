@@ -16,3 +16,6 @@ if has("autocmd")
        augroup END 
 endif
 syntax on
+
+set number
+set ruler
